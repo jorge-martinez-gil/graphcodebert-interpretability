@@ -2,6 +2,9 @@
 
 This repository contains the code and resources for the paper *"Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks."*
 
+This research has been recently published in the *International Journal of Software Engineering and Knowledge Engineering* and is available at [https://doi.org/10.1142/S0218194025500160](https://doi.org/10.1142/S0218194025500160).
+
+[![DOI](https://img.shields.io/badge/DOI-10.1142%2FS0218194025500160-blue)](https://doi.org/10.1142/S0218194025500160)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.05275-b31b1b.svg)](https://arxiv.org/abs/2410.05275)
 ![License](https://img.shields.io/badge/license-MIT-green) ![GraphCodeBERT](https://img.shields.io/badge/GraphCodeBERT-interpretability-brightgreen)
 
