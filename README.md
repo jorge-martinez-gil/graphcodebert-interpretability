@@ -37,13 +37,14 @@ The visualizations help you understand how code fragments relate to each other. 
 If you use this work, please cite:
 
 ```bibtex
-@misc{martinezgil2024augmenting,
-      title={Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks}, 
-      author={Jorge Martinez-Gil},
-      year={2024},
-      eprint={2410.05275},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE}
+@article{martinezgil2025augmenting,
+      author = {Martinez-Gil, Jorge},
+      title = {Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks},
+      journal = {International Journal of Software Engineering and Knowledge Engineering},
+      pages = {1-22},
+      year = {2025},
+      doi = {10.1142/S0218194025500160},
+      URL = {https://doi.org/10.1142/S0218194025500160}
 }
 ```
   
