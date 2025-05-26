@@ -44,7 +44,9 @@ If you use this work, please cite:
       author = {Martinez-Gil, Jorge},
       title = {Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks},
       journal = {International Journal of Software Engineering and Knowledge Engineering},
-      pages = {1-22},
+      volume = {35},
+      number = {05},
+      pages = {657-678},
       year = {2025},
       doi = {10.1142/S0218194025500160},
       URL = {https://doi.org/10.1142/S0218194025500160}
