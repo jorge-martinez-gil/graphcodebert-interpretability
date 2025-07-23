@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-[Martinez-Gil2024] Augmenting the Interpretability of TF-IDF and Cosine Similarity for Code Similarity Tasks
+[Martinez-Gil2025] Martinez-Gil, J. (2025). Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks. International Journal of Software Engineering and Knowledge Engineering, 35(05), 657-678.
 
 @author: Jorge Martinez-Gil
 """

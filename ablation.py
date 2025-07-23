@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-[Martinez-Gil2024] Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks, arXiv preprint arXiv:2410.05275, 2024
+[Martinez-Gil2025] Martinez-Gil, J. (2025). Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks. International Journal of Software Engineering and Knowledge Engineering, 35(05), 657-678.
 
 @author: Jorge Martinez-Gil
 """
