@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Martinez-Gil"
+  given-names: "Jorge"
+title: "Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks"
+doi: 10.1142/S0218194025500160
+date-released: 2024-10-15
+url: "https://github.com/jorge-martinez-gil/graphcodebert-interpretability"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Martinez-Gil"
+    given-names: "Jorge"
+  doi: "10.1142/S0218194025500160"
+  journal: "International Journal of Software Engineering and Knowledge Engineering"
+  title: "Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks"
+  year: 2025
+  volume: 35
+  issue: 05
+  start: 657
+  end: 678
