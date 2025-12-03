@@ -1,15 +1,16 @@
 # Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks
 
-This repository contains the code and resources for the paper *"Augmenting the Interpretability of GraphCodeBERT for Code Similarity Tasks."*
-
-This research has been recently published in the *International Journal of Software Engineering and Knowledge Engineering* and is available at [https://doi.org/10.1142/S0218194025500160](https://doi.org/10.1142/S0218194025500160).
-
 [![DOI](https://img.shields.io/badge/DOI-10.1142%2FS0218194025500160-blue)](https://doi.org/10.1142/S0218194025500160)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.05275-b31b1b.svg)](https://arxiv.org/abs/2410.05275)
-![License](https://img.shields.io/badge/license-MIT-green) ![GraphCodeBERT](https://img.shields.io/badge/GraphCodeBERT-interpretability-brightgreen)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+![GraphCodeBERT](https://img.shields.io/badge/GraphCodeBERT-Interpretability-brightgreen)
 
-![Comparison between Bubble and Insertion Sort](/pca_pairwise_comparisons/Bubble_Sort_vs_Insertion_Sort_tokens_2d_pca.png)
+> **Official implementation** of the research paper published in the *International Journal of Software Engineering and Knowledge Engineering (IJSEKE)*.
 
+![Comparison between Bubble and Insertion Sort](Bubble_Sort_vs_Insertion_Sort_tokens_2d_pca.png)
+
+---
 
 ## 🌍 Overview
 The goal of this research is to enhance the transparency and interpretability of the code similarity assessments provided by GraphCodeBERT, allowing developers to better understand why certain code fragments are deemed similar.
