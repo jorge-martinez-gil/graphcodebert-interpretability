@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 ![GraphCodeBERT](https://img.shields.io/badge/GraphCodeBERT-Interpretability-brightgreen)
+[![Citations](https://img.shields.io/badge/citations-5-orange)](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=X1pRUYcAAAAJ:0qX8s2k1IRwC)
 
 > **Official implementation** of the research paper published in the *International Journal of Software Engineering and Knowledge Engineering (IJSEKE)*.
 
