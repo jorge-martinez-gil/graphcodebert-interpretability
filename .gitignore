@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Hugging Face / model caches
+.cache/
+*.pt
+*.bin
+*.safetensors
+
+# Generated analysis artefacts (regenerate with `gcbi reproduce`)
+benchmark_report/
+projections/
+ablation_study_results/
+
+# OS / editor noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scratch
+_mount_write_test.py
